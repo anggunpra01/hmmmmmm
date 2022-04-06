@@ -180,8 +180,8 @@ $('document').ready(function(){
 				$("p:nth-child(49)").fadeOut('slow').promise().done(function () {
 											Swal.fire({
 						title: 'PESAN TERAKHIR',
-						text: 'Aku ingin mengatakan apa yang tidak pernah aku katakan, dan aku ingin sesuatu tetapi sesuatu yang tak ada, ',
-						footer: '<a href="https://api.whatsapp.com/send?phone=6285211662674&text=Terimakasih udah dilihat">Klik</a>',
+						text: 'chat aku kek kadang kadang ga usah malu, ',
+						footer: '<a href="https://api.whatsapp.com/send?phone=6282331393921&text=Terimakasih udah dilihat">Klik</a>',
 						showConfirmButton:false,
 						showClass: {
 						  popup: 'animate__animated animate__fadeInDown'
